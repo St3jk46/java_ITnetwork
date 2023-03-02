@@ -8,11 +8,12 @@ package cz.itnetwork.vypis;
  *
  * @author Václav
  */
-public class Vypis {
+public class Vypis 
+{
+ 	public static void main(String[] args) {
 
-    public static void main(String[] args) {
-        int a;
-        a = 56;
-        System.out.print(a);
-    }
+float a;
+a = 56.6F;
+System.out.println(a);
+	}
 }
