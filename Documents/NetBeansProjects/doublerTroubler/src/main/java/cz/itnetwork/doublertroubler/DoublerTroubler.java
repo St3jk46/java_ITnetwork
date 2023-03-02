@@ -17,5 +17,7 @@ public class DoublerTroubler {
         int a = Integer.parseInt(s);
         a=a*2;
         System.out.println(a);
+        
     }
+    
 }
