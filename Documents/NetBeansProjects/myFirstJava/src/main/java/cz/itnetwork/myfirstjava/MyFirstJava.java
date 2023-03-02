@@ -22,6 +22,7 @@ public class MyFirstJava {
          System.out.println(x+(" kakadu ")+ y);
          String c = x +(" ") + y;
          System.out.println(c);
+
         
          
     }
