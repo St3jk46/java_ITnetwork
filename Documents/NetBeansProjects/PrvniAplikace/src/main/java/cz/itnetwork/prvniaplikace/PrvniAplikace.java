@@ -11,6 +11,6 @@ package cz.itnetwork.prvniaplikace;
 public class PrvniAplikace {
 
     public static void main(String[] args) {
-        System.out.println("Hello Wd!");
+        System.out.println("Hellsdfasdfdsadsfadfsfdaso Wd!");
     }
 }
