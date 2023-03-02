@@ -27,6 +27,5 @@ System.out.println("Součin: " + soucin);
 System.out.println("Podíl: " + podil);
 System.out.println("Děkuji za použití kalkulačky, aplikaci ukončíte libovolnou klávesou.");
         
-        
     }
 }
