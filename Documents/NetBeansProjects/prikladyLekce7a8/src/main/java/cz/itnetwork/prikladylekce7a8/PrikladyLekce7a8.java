@@ -54,8 +54,7 @@ public class PrikladyLekce7a8 {
             break; 
             default:
                 System.out.println("Tvůj smajlík je neznámý");
-      
-
-          
+        }
     }
 }
+
