@@ -19,6 +19,6 @@ public class PrikladyLekce9a10 {
                System.out.println("<° )))-<");
             }
         }
-               
+    
     }
 
