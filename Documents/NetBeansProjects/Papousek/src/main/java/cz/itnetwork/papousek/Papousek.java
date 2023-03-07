@@ -11,6 +11,11 @@ public class Papousek {
         String vystup;
         vystup = vstup + ", " + vstup + "!";
         System.out.println(vystup);
+        int v = -39;
+        System.out.println(vystup + v);
+        int x = 2;
+float y = 50F;
+System.out.println(y);
 
     }
 }
